@@ -10,6 +10,6 @@ public class helloworld {
 		String name = sc.nextLine();
 		sc.close();
 		System.out.println(name);
-		//ÄãºÃ
+		//edit by hot_fix
 	}
 }
